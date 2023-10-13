@@ -7,6 +7,7 @@
 `timescale 1ns/10ps
 
 `include "UART_TX.v"
+`include "UART_RX.v"
 
 module UART_TB ();
 
